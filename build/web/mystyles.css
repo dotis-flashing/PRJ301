@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 12, 2022, 9:33:17 PM
+    Author     : ADMIN
+*/
+html{
+    background-image: url('https://i.ibb.co/5cK97Wx/Top-10-Traditional-Foods-in-Italy-1140x694.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    margin-left: 24px;
+    margin-top: 10px;
+}
+form{
+    margin-top: 150px;
+    margin-left: 35%;
+    height: 550px;
+    width:30%;
+    text-align: center;
+    background-color: white;
+    border: 5px solid white;
+}
+p{
+    font-size: 30px;
+    margin-top: 80px;
+}
+input{
+    margin-top: 10px;
+}
+a{
+    margin-top: 70px;
+    color: red;
+}
